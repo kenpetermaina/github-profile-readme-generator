@@ -3,7 +3,5 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://rahuldkjain.github.io
+Host: https:https://kenmaina.simonsoftware.xyz
 
-# Sitemaps
-Sitemap: https://rahuldkjain.github.io/gh-profile-readme-generator/sitemap.xml
